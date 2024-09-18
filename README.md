@@ -13,6 +13,12 @@
 
 - 📫 How to reach me **canoye05@gmail.com**
 
+<h3 align="left">Fun projects that I have recently worked on:</h3>
+[YLDrip Business Site](https://www.yldrip.com/)
+[Messenger App](https://messenger-6gej.onrender.com/)
+[Family Handyman and Repair Services](https://www.thefamilyhandymanservices.com/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/euan-canoy-8b3530180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/euan-canoy-8b3530180/" height="30" width="40" /></a>
