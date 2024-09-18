@@ -15,11 +15,9 @@
 
 <h3 align="left">Fun projects that I have recently worked on:</h3>
 
-[YLDrip Business Site](https://www.yldrip.com/)
-
-[Messenger App](https://messenger-6gej.onrender.com/)
-
-[Family Handyman and Repair Services Business Page](https://www.thefamilyhandymanservices.com/)
+<a href="https://www.yldrip.com/" target="_blank">YLDrip Business Site!</a> <br/>
+<a href="https://messenger-6gej.onrender.com/" target="_blank">Messenger App!</a> <br/>
+<a href="https://www.thefamilyhandymanservices.com/" target="_blank">Family Handyman and Repair Services!</a>
 
 
 <h3 align="left">Connect with me:</h3>
