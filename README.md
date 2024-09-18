@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.euancanoy.com/](https://www.euancanoy.com/)
 
-- 💬 Ask me about **React, JavaScript, Basketball, and the Mariners**
+- 💬 Ask me about **Full stack development, basketball 🏀, and the Mariners 🔱**
 
 - 📫 How to reach me **canoye05@gmail.com**
 
