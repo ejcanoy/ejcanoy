@@ -14,9 +14,12 @@
 - 📫 How to reach me **canoye05@gmail.com**
 
 <h3 align="left">Fun projects that I have recently worked on:</h3>
+
 [YLDrip Business Site](https://www.yldrip.com/)
+
 [Messenger App](https://messenger-6gej.onrender.com/)
-[Family Handyman and Repair Services](https://www.thefamilyhandymanservices.com/)
+
+[Family Handyman and Repair Services Business Page](https://www.thefamilyhandymanservices.com/)
 
 
 <h3 align="left">Connect with me:</h3>
